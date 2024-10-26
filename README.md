@@ -1,3 +1,12 @@
+# Hello, I'm abirami 👋
+
+I'm a student, passionate about cs.
+
+## 🛠 Skills
+- Languages: Python, JavaScript, ...
+- Frameworks: React, Django, ...
+
+
 ## Hi there 👋
 
 <!--
